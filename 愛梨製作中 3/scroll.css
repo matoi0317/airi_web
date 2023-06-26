@@ -1,0 +1,10 @@
+@charset "utf-8";
+.slider img {
+    width: auto;
+    height: 170px;
+    margin: 0 auto;
+}
+
+.slider .slick-slider {
+    margin: 0 10px;
+}
